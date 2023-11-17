@@ -1,6 +1,4 @@
 # Viru
 viraj
 raj
-teamgit 
-
-virajnaik 
+team
